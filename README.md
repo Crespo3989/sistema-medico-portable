@@ -2,7 +2,7 @@
 
 Aplicación web local para gestionar citas médicas. Incluye PHP portable y una base de datos SQLite, por lo que puede ejecutarse en Windows sin instalar un servidor ni depender de Internet.
 
-La interfaz actual utiliza Tailwind CSS 4 y daisyUI 5, con una estética inspirada en Fórmula 1: rojo, superficies oscuras, títulos en mayúsculas y navegación horizontal. El acceso incorpora una fotografía médica y permite elegir apariencia clara, oscura o del sistema.
+La interfaz actual utiliza Tailwind CSS 4 y daisyUI 5, superficies oscuras, títulos en mayúsculas y navegación horizontal. El acceso incorpora una fotografía médica y permite elegir apariencia clara, oscura o del sistema.
 
 ## Inicio rápido
 
